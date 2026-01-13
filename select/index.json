@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Ameno (2010 Remix) (Official Video)",
+  "base_artist": "ERA",
+  "createdAt": "2026-01-13T14:23:26.690510Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ameno (remix2)",
+      "artist": "Era",
+      "has_synced": true,
+      "path": "select/01_Ameno_(remix2)_Era.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ameno (remix)",
+      "artist": "Era",
+      "has_synced": true,
+      "path": "select/02_Ameno_(remix)_Era.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ameno (Remix)",
+      "artist": "Era",
+      "has_synced": true,
+      "path": "select/03_Ameno_(Remix)_Era.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ameno",
+      "artist": "DJ Quicksilver",
+      "has_synced": true,
+      "path": "select/04_Ameno_DJ_Quicksilver.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ameno",
+      "artist": "Dj. Quicksilver",
+      "has_synced": true,
+      "path": "select/05_Ameno_Dj._Quicksilver.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ameno",
+      "artist": "ERA",
+      "has_synced": true,
+      "path": "select/06_Ameno_ERA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ameno",
+      "artist": "Gabry Ponte feat. Marnik & Roberto Molinaro",
+      "has_synced": true,
+      "path": "select/07_Ameno_Gabry_Ponte_feat._Marnik_&_Roberto_Molinaro.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ameno",
+      "artist": "Gabry Ponte, Marnik, Roberto Molinaro",
+      "has_synced": true,
+      "path": "select/08_Ameno_Gabry_Ponte,_Marnik,_Roberto_Molinaro.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ameno",
+      "artist": "Era",
+      "has_synced": true,
+      "path": "select/09_Ameno_Era.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ameno Amapiano Remix (You Wanna Bamba)",
+      "artist": "Goya Menor feat. Nektunez",
+      "has_synced": true,
+      "path": "select/10_Ameno_Amapiano_Remix_(You_Wanna_Bamba)_Goya_Menor_feat._Nektunez.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ameno Amapiano Remix",
+      "artist": "Goya Menor",
+      "has_synced": true,
+      "path": "select/11_Ameno_Amapiano_Remix_Goya_Menor.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ameno (video mix)",
+      "artist": "DJ Quicksilver",
+      "has_synced": false,
+      "path": "select/12_Ameno_(video_mix)_DJ_Quicksilver.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ameno Amapiano Remix (You Wanna Bamba)",
+      "artist": "Goya Menor & Nektunez",
+      "has_synced": true,
+      "path": "select/13_Ameno_Amapiano_Remix_(You_Wanna_Bamba)_Goya_Menor_&_Nektunez.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ameno - Remix",
+      "artist": "ERA",
+      "has_synced": false,
+      "path": "select/14_Ameno_-_Remix_ERA.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ameno Dorime",
+      "artist": "Kyoresu",
+      "has_synced": true,
+      "path": "select/15_Ameno_Dorime_Kyoresu.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ameno (Album Version)",
+      "artist": "Era",
+      "has_synced": true,
+      "path": "select/16_Ameno_(Album_Version)_Era.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Ameno (Album Version)",
+      "artist": "Era",
+      "has_synced": true,
+      "path": "select/17_Ameno_(Album_Version)_Era.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Ameno Amapiano Remix (You Wanna Bamba)",
+      "artist": "Goya Menor, Nektunez",
+      "has_synced": true,
+      "path": "select/18_Ameno_Amapiano_Remix_(You_Wanna_Bamba)_Goya_Menor,_Nektunez.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ameno",
+      "artist": "era",
+      "has_synced": false,
+      "path": "select/pl_01_ameno_era.txt"
+    }
+  ]
+}
