@@ -1,0 +1,80 @@
+# ERA – Ameno (2010 Remix) (Official Video)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:06.29] Dori me, interimo
+[00:10.73] Ayapare, doriime
+[00:12.71] Ameno, ameno
+[00:14.37] Latire, latiremo
+[00:19.19] Dori me
+[00:22.69] 
+[00:22.48] Ameno
+[00:24.49] Omenare imperavi ameno
+[00:28.84] Dimere, dimere matiro
+[00:34.20] Matiremo, ameno
+[00:41.70] 
+[00:39.81] Omenare imperavi emunari
+[00:43.49] Ameno
+[00:44.32] Omenare imperavi emunari
+[00:56.32] 
+[00:47.02] Ameno
+[00:48.70] Ameno dore
+[00:52.43] Ameno dori me
+[00:56.55] Ameno dori me
+[01:03.05] 
+[01:01.20] Ameno dom
+[01:04.23] Dori me reo
+[01:07.93] Ameno dori me
+[01:11.86] Ameno dori me
+[01:15.43] Dori me am
+[01:20.43] 
+[01:27.06] Ameno
+[01:30.00] Ameno
+[01:32.50] 
+[01:31.69] Ameno
+[01:32.46] Omenare imperavi ameno
+[01:35.09] Dimere dimere martiro
+[01:41.70] Martiremo, ameno
+[01:49.70] 
+[01:46.86] Omenare imperavi emunari
+[01:50.94] Ameno
+[01:52.05] Omenare imperavi emunari
+[02:04.05] 
+[01:55.55] Ameno
+[01:56.74] Ameno dore
+[02:01.18] Ameno dori me
+[02:05.84] Ameno dori me
+[02:12.34] 
+[02:09.52] Ameno dom
+[02:12.58] Dori me reo
+[02:16.82] Ameno dori me
+[02:21.62] Ameno dori me
+[02:24.94] Dori me am
+[02:29.94] 
+[02:27.96] Ameno, ameno
+[02:31.28] Ameno dori me
+[02:35.40] Ameno dori me
+[02:39.08] Dori me
+[02:42.58] 
+[02:49.23] Ameno
+[02:51.13] Ameno dore
+[02:54.18] Ameno dori me
+[02:58.48] Ameno dori me
+[03:04.98] 
+[03:02.21] Ameno dom
+[03:04.91] Dori me reo
+[03:07.96] Ameno dori me
+[03:12.43] Ameno dori me
+[03:18.93] 
+[03:16.96] Ameno, ameno
+[03:20.63] Ameno
+[03:22.15] Ameno dori me
+[03:24.15] Ameno
+[03:26.09] Ameno dori me
+[03:32.59] 
+[03:30.87] Ameno dom
+[03:33.17] Dori me reo, ameno
+[03:35.78] Ameno dori me
+[03:40.17] Ameno, ameno dori me
+```
